@@ -1,4 +1,4 @@
-# Recriando-a-p-gina-inicial-do-Instagram
+# Recriando-a-pagina-inicial-do-Instagram
 
 Foi reconstruido a página de login do Instagram. Para isso, fiz o uso de CSS com Flexbox.
 
